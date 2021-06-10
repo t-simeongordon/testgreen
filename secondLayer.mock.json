@@ -1,0 +1,811 @@
+[
+  {
+      "text": "Communicating clearly and early if a task is not achievable in a sprint",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+        {
+            "tag_name": "Communication",
+            "tag_id": 122889296,
+            "confidence": 0.347
+        },
+        {
+            "tag_name": "Knowledge management",
+            "tag_id": 122889296,
+            "confidence": 0.347
+        }
+      ]
+  },
+  {
+      "text": "Articulating what we need now from the POs and what we need in the future to enable our delivery",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Collaboration between technical and functional team members",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.304
+          }
+      ]
+  },
+  {
+      "text": "There are multiple outstanding queries due to limited involvement by TCS. Need increased input from that side",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Identified a need to record decisions in order to improve traceability",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Concern expressed regarding the scale-up and how stakeholders [availability] time can be utilised across both teams",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Availability",
+              "tag_id": 122889299,
+              "confidence": 0.538
+          }
+      ]
+  },
+  {
+      "text": "Concerns expressed regarding the ready for PO Column in JIRA due to limited availability of Product Owner. Suggestions made to remove column temporarily",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Availability",
+              "tag_id": 122889299,
+              "confidence": 0.379
+          }
+      ]
+  },
+  {
+      "text": "Working in isolation highlighted as an area of potential concern. Was unavoidable in the current sprint given the nature of the tasks. Greater effort to be made in the future to avoid repetition ",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Availability",
+              "tag_id": 122889299,
+              "confidence": 0.316
+          }
+      ]
+  },
+  {
+      "text": "Reviewing process needs to be more robust",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Easier access to the dev environment would be beneficial",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.381
+          }
+      ]
+  },
+  {
+      "text": "Need to utilise seniors time in a more efficient manner",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Leadership Time",
+              "tag_id": 122889297,
+              "confidence": 0.553
+          }
+      ]
+  },
+  {
+      "text": "Better communication and knowledge sharing between teams",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.557
+          }
+      ]
+  },
+  {
+      "text": "Better use of stand-up session to ask questions, extract the information you need and support team members",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.362
+          }
+      ]
+  },
+  {
+      "text": "Stand-up session could be more lively",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Ask questions - don't wait for the information to come to you",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Ownership of JIRA - everyone should update more regularly with progress and new backlog items",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Estimation - should happen regularly and we should all be more vocal",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Sprint planning - needed more urgency and collaboration",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Ceremonies - retrospective should be after review",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Better lines of communication with other DWP teams outside of teams remit",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.387
+          }
+      ]
+  },
+  {
+      "text": "Testing approach needs to be rolled out",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "PO needs to be reviewing AC's",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.381
+          }
+      ]
+  },
+  {
+      "text": "Maintenance of questions, dependencies and actions log",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "More access to PO and SME",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.56
+          }
+      ]
+  },
+  {
+      "text": "More organic communications",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.347
+          }
+      ]
+  },
+  {
+      "text": "More engagement outside of our key area e.g. OED",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Correct estimation of tasks",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Update confluence more",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Recording decisions better",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.347
+          }
+      ]
+  },
+  {
+      "text": "No phones or laptops in meetings",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Waiting until last moment for planning",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Planning in advance",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Meeting estimation",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Bring less things in",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Limited access to current environment",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.381
+          }
+      ]
+  },
+  {
+      "text": "Stand ups have regressed to updates",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Struggled with test environment set up",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Keeping an eye on JIRA throughout the sprint, not just at the end",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Direction of the team has been a little unclear - Limbo",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.304
+          }
+      ]
+  },
+  {
+      "text": "Only 1 Design team member - so unable to make any progress - \"lonely\"",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.304
+          }
+      ]
+  },
+  {
+      "text": "Resourcing is an issue - still need 3+ members to complete the team - still waiting on resources from DWP pool",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.304
+          }
+      ]
+  },
+  {
+      "text": "Ill-defined scope - led to previous confusion around direction/tasks",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Transition from Architect to PO's could have been smoother",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.381
+          }
+      ]
+  },
+  {
+      "text": "Allowed to be a little disrupted with direction/holidays etc",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Still need additional resources (QA/UX)",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Planning Sprints at the end",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Procrastinating",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Discovery Distracting Tech Refresh",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Urgently escalating blockers",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Qa Earlier",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Sharing full picture",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.347
+          }
+      ]
+  },
+  {
+      "text": "Finding better roots",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.347
+          }
+      ]
+  },
+  {
+      "text": "User Stories",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Backlog",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Clear way forward tech refresh",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Better graphs",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.347
+          }
+      ]
+  },
+  {
+      "text": "Muddy water between online & options - more clarity about getting together for sessions and ceremonies",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Clearer vision of direction - involvement of PO and a BA & DL",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.381
+          }
+      ]
+  },
+  {
+      "text": "Need to be product focused rather than technical - need a new plan - strategic planning",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "More collaboration between devops",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "More focus on delivery",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Over reliance on certain team members",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Communication",
+              "tag_id": 122889296,
+              "confidence": 0.304
+          }
+      ]
+  },
+  {
+      "text": "Monitors!",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "link to existing test environment for IAM",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "More focus on task and sprint goals",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Knowledge management",
+              "tag_id": 122889298,
+              "confidence": 0.255
+          }
+      ]
+  },
+  {
+      "text": "Time limits in ceremonies",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Leadership Time",
+              "tag_id": 122889297,
+              "confidence": 0.302
+          }
+      ]
+  },
+  {
+      "text": "Improve engagement with stakeholders",
+      "external_id": null,
+      "error": false,
+      "classifications": [
+          {
+              "tag_name": "Availability",
+              "tag_id": 122889299,
+              "confidence": 0.316
+          }
+      ]
+  }
+]
