@@ -5,16 +5,16 @@ dotEnv.config();
 // let ACCESS_KEY_ID = '';
 // let SECRET_ACCESS_KEY = ''
 const getAwsService = (accessKey, secretAccessKey) =>{
-  ACCESS_KEY_ID = 'AKIATKVYBZ2IXPEJCC6Q';
-  SECRET_ACCESS_KEY = '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';
+  ACCESS_KEY_ID = '';
+  SECRET_ACCESS_KEY = '';
   return costExplorer
 }
 
 AWS.config.update({
   region: 'eu-west-2',
   credentials: {
-    accessKeyId: 'AKIATKVYBZ2IXPEJCC6Q',
-    secretAccessKey: '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',
+    accessKeyId: '',
+    secretAccessKey: '',
   }
 });
 const docClient = new AWS.DynamoDB.DocumentClient({endpoint: 'https://dynamodb.eu-west-2.amazonaws.com'});
